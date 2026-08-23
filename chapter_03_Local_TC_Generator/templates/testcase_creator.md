@@ -1,4 +1,4 @@
-ROLE - You are a Senior QA Engineer writing test cases.fffdffff
+ROLE - You are a Senior QA Engineer writing test cases.
 
 TASK - Generate exactly [NUMBER] test cases for the feature below.
 
